@@ -1,0 +1,37 @@
+name: fortenow
+
+# Solo la base corre en Docker; la API corre en el host.
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: fortenow_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASS}
+      POSTGRES_DB: ${DB_NAME}
+      TZ: UTC
+    ports:
+      - '${DB_PORT}:5432'
+    volumes:
+      - fortenow_db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U ${DB_USER} -d ${DB_NAME}']
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Sin volumen: arranca vacía cada vez. Para el test de concurrencia.
+  db-test:
+    image: postgres:16-alpine
+    container_name: fortenow_db_test
+    environment:
+      POSTGRES_USER: fortenow
+      POSTGRES_PASSWORD: fortenow_test
+      POSTGRES_DB: fortenow_test
+      TZ: UTC
+    ports:
+      - '5453:5432'
+
+volumes:
+  fortenow_db_data:
