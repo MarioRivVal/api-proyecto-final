@@ -1,0 +1,269 @@
+userEmail;eventSlug;slotCode;status;rejectionReason;createdAt
+gemma.torres@example.com;fortenow-2024;1600;ACCEPTED;;2023-10-02 15:09
+covadonga.blanco@example.com;fortenow-2024;1130;ACCEPTED;;2023-10-04 08:17
+samuel.medina@example.com;fortenow-2024;1045;ACCEPTED;;2023-10-11 09:05
+paula.valdes@example.com;fortenow-2024;1815;ACCEPTED;;2023-10-11 15:45
+david.cabal@example.com;fortenow-2024;1815;ACCEPTED;;2023-10-14 23:27
+mario.suarez@example.com;fortenow-2024;1130;ACCEPTED;;2023-10-15 19:14
+luis.sanz@example.com;fortenow-2024;1215;WITHDRAWN;;2023-10-27 10:36
+yaiza.gomez@example.com;fortenow-2024;1600;ACCEPTED;;2023-10-28 04:47
+ainhoa.morales.gonzalez@example.com;fortenow-2024;1130;REJECTED;Turno completo;2023-10-28 14:39
+lidia.morales@example.com;fortenow-2024;1215;ACCEPTED;;2023-10-29 06:54
+leire.rivas@example.com;fortenow-2024;1730;ACCEPTED;;2023-10-30 23:34
+aitana.ramos@example.com;fortenow-2024;1600;REJECTED;Turno completo;2023-11-01 17:56
+xabier.moreno@example.com;fortenow-2024;1130;REJECTED;Turno completo;2023-11-04 14:04
+carmen.sanchez@example.com;fortenow-2024;1730;ACCEPTED;;2023-11-05 09:47
+andres.serrano@example.com;fortenow-2024;1600;ACCEPTED;;2023-11-06 19:47
+carlos.castro@example.com;fortenow-2024;1000;REJECTED;Datos de inscripción incompletos;2023-11-07 14:24
+oscar.rubio@example.com;fortenow-2024;1815;WITHDRAWN;;2023-11-08 06:23
+mario.vazquez@example.com;fortenow-2024;1000;ACCEPTED;;2023-11-10 01:59
+jaime.rodriguez@example.com;fortenow-2024;1645;REJECTED;Turno completo;2023-11-15 16:05
+bruno.sanchez@example.com;fortenow-2024;1815;ACCEPTED;;2023-11-23 00:45
+lidia.mendez@example.com;fortenow-2024;1000;WITHDRAWN;;2023-11-24 00:35
+samuel.romero@example.com;fortenow-2024;1600;ACCEPTED;;2023-11-25 02:10
+ainhoa.morales.gonzalez@example.com;fortenow-2024;1000;ACCEPTED;;2023-11-27 23:01
+daniel.marin@example.com;fortenow-2024;1730;WITHDRAWN;;2023-11-29 02:02
+javier.ruiz@example.com;fortenow-2024;1730;ACCEPTED;;2023-12-02 05:13
+eduardo.moreno@example.com;fortenow-2024;1130;ACCEPTED;;2023-12-02 18:02
+jaime.rodriguez@example.com;fortenow-2024;1645;ACCEPTED;;2023-12-05 01:29
+silvia.guerrero@example.com;fortenow-2024;1215;ACCEPTED;;2023-12-06 05:15
+enrique.blanco@example.com;fortenow-2024;1000;REJECTED;Datos de inscripción incompletos;2023-12-07 10:54
+manuel.diaz@example.com;fortenow-2024;1045;REJECTED;Turno completo;2023-12-18 15:48
+xabier.moreno@example.com;fortenow-2024;1600;ACCEPTED;;2023-12-23 19:57
+rocio.romero@example.com;fortenow-2024;1730;ACCEPTED;;2023-12-23 22:05
+guillermo.fernandez@example.com;fortenow-2024;1045;ACCEPTED;;2023-12-25 18:01
+jorge.garcia@example.com;fortenow-2024;1815;REJECTED;Turno completo;2023-12-27 12:00
+irene.ortiz@example.com;fortenow-2024;1215;ACCEPTED;;2023-12-30 03:50
+tania.ortiz@example.com;fortenow-2024;1215;ACCEPTED;;2023-12-30 08:00
+rocio.gil@example.com;fortenow-2024;1045;ACCEPTED;;2024-01-13 00:27
+gonzalo.alvarez@example.com;fortenow-2024;1215;ACCEPTED;;2024-01-13 07:08
+maria.vazquez@example.com;fortenow-2024;1815;ACCEPTED;;2024-01-13 22:08
+marcos.ortega@example.com;fortenow-2024;1130;WITHDRAWN;;2024-01-14 06:31
+natalia.martinez@example.com;fortenow-2024;1645;ACCEPTED;;2024-01-15 16:15
+rebeca.valdes@example.com;fortenow-2024;1045;REJECTED;;2024-01-16 09:24
+jorge.garcia@example.com;fortenow-2024;1815;ACCEPTED;;2024-01-18 12:50
+hugo.menendez@example.com;fortenow-2024;1215;ACCEPTED;;2024-01-25 16:25
+manuel.diaz@example.com;fortenow-2024;1000;ACCEPTED;;2024-01-27 13:04
+natalia.llano@example.com;fortenow-2024;1645;ACCEPTED;;2024-01-28 18:09
+victor.cano@example.com;fortenow-2024;1730;ACCEPTED;;2024-01-29 15:55
+enrique.navarro@example.com;fortenow-2024;1645;ACCEPTED;;2024-01-30 19:51
+unai.perez@example.com;fortenow-2024;1600;ACCEPTED;;2024-01-30 23:48
+elena.medina@example.com;fortenow-2024;1000;ACCEPTED;;2024-02-03 14:25
+aitana.ramos@example.com;fortenow-2024;1645;ACCEPTED;;2024-02-05 09:11
+luis.rubio@example.com;fortenow-2024;1045;ACCEPTED;;2024-02-08 07:54
+ruben.munoz@example.com;fortenow-2024;1130;ACCEPTED;;2024-02-10 17:38
+veronica.cortes@example.com;fortenow-2024;1730;ACCEPTED;;2024-02-13 14:41
+marta.gil@example.com;fortenow-2024;1645;ACCEPTED;;2024-02-15 14:21
+ramon.cortes@example.com;fortenow-2024;1130;ACCEPTED;;2024-02-17 18:12
+yaiza.delgado@example.com;fortenow-2024;1215;WITHDRAWN;;2024-02-26 20:59
+samuel.cortes@example.com;fortenow-2024;1000;ACCEPTED;;2024-02-28 03:29
+maria.delgado@example.com;fortenow-2024;1045;ACCEPTED;;2024-03-01 06:50
+covadonga.munoz@example.com;fortenow-2024;1130;ACCEPTED;;2024-03-03 03:38
+estefania.fernandez@example.com;fortenow-2024;1045;ACCEPTED;;2024-03-06 03:43
+gonzalo.vazquez@example.com;fortenow-2024;1000;ACCEPTED;;2024-03-13 10:04
+gonzalo.sanchez@example.com;fortenow-2025;1645;REJECTED;Turno completo;2024-10-01 20:23
+leire.rivas@example.com;fortenow-2025;1645;REJECTED;Turno completo;2024-10-03 09:43
+gonzalo.sanchez@example.com;fortenow-2025;1600;ACCEPTED;;2024-10-03 09:55
+leire.rivas@example.com;fortenow-2025;1600;ACCEPTED;;2024-10-03 13:46
+lidia.arias@example.com;fortenow-2025;1600;ACCEPTED;;2024-10-06 17:57
+andres.alvarez@example.com;fortenow-2025;1600;REJECTED;Turno completo;2024-10-13 09:53
+andres.alvarez@example.com;fortenow-2025;1000;ACCEPTED;;2024-10-16 19:13
+adrian.garrido@example.com;fortenow-2025;1215;REJECTED;Turno completo;2024-10-17 13:28
+ramon.cortes@example.com;fortenow-2025;1730;ACCEPTED;;2024-10-18 03:55
+guillermo.fernandez@example.com;fortenow-2025;1130;ACCEPTED;;2024-10-25 09:10
+javier.ruiz@example.com;fortenow-2025;1600;WITHDRAWN;;2024-10-26 19:51
+mario.suarez@example.com;fortenow-2025;1215;REJECTED;Turno completo;2024-10-28 05:47
+rocio.dominguez@example.com;fortenow-2025;1215;REJECTED;Turno completo;2024-10-30 00:16
+natalia.martinez@example.com;fortenow-2025;1130;REJECTED;Turno completo;2024-10-30 09:04
+natalia.llano@example.com;fortenow-2025;1600;REJECTED;;2024-10-31 12:42
+cristina.alonso@example.com;fortenow-2025;1045;ACCEPTED;;2024-11-02 09:59
+lidia.morales@example.com;fortenow-2025;1645;ACCEPTED;;2024-11-02 10:28
+tania.ortiz@example.com;fortenow-2025;1045;ACCEPTED;;2024-11-02 23:36
+natalia.martinez@example.com;fortenow-2025;1215;ACCEPTED;;2024-11-06 15:10
+luis.rubio@example.com;fortenow-2025;1045;ACCEPTED;;2024-11-06 20:36
+rodrigo.gil@example.com;fortenow-2025;1815;ACCEPTED;;2024-11-08 18:17
+covadonga.blanco@example.com;fortenow-2025;1045;ACCEPTED;;2024-11-09 16:26
+marta.gil@example.com;fortenow-2025;1600;WITHDRAWN;;2024-11-10 15:47
+enrique.molina@example.com;fortenow-2025;1645;ACCEPTED;;2024-11-10 17:11
+tomas.sanz@example.com;fortenow-2025;1645;ACCEPTED;;2024-11-10 19:47
+yaiza.delgado@example.com;fortenow-2025;1045;REJECTED;Turno completo;2024-11-15 10:48
+carmen.sanchez@example.com;fortenow-2025;1600;ACCEPTED;;2024-11-16 07:36
+gemma.torres@example.com;fortenow-2025;1045;ACCEPTED;;2024-11-20 06:13
+asier.arias@example.com;fortenow-2025;1730;REJECTED;Datos de inscripción incompletos;2024-11-20 11:51
+elena.perez@example.com;fortenow-2025;1045;ACCEPTED;;2024-11-27 14:37
+maria.vazquez@example.com;fortenow-2025;1645;REJECTED;Turno completo;2024-11-28 03:14
+yaiza.delgado@example.com;fortenow-2025;1130;ACCEPTED;;2024-11-28 15:54
+adrian.garrido@example.com;fortenow-2025;1815;ACCEPTED;;2024-11-29 03:59
+maria.vazquez@example.com;fortenow-2025;1730;ACCEPTED;;2024-11-30 13:31
+mario.suarez@example.com;fortenow-2025;1600;ACCEPTED;;2024-12-02 03:37
+ruben.munoz@example.com;fortenow-2025;1045;WITHDRAWN;;2024-12-04 15:29
+yaiza.gomez@example.com;fortenow-2025;1215;ACCEPTED;;2024-12-04 20:40
+enrique.blanco@example.com;fortenow-2025;1045;WITHDRAWN;;2024-12-12 03:17
+daniel.marin@example.com;fortenow-2025;1130;ACCEPTED;;2024-12-18 18:23
+victor.santos@example.com;fortenow-2025;1815;ACCEPTED;;2024-12-31 07:52
+bruno.gil@example.com;fortenow-2025;1000;ACCEPTED;;2025-01-04 09:12
+miriam.llano@example.com;fortenow-2025;1045;WITHDRAWN;;2025-01-04 14:15
+samuel.cortes@example.com;fortenow-2025;1130;WITHDRAWN;;2025-01-09 02:58
+bruno.sanchez@example.com;fortenow-2025;1130;WITHDRAWN;;2025-01-11 20:45
+david.lopez@example.com;fortenow-2025;1000;ACCEPTED;;2025-01-11 23:44
+andrea.marin@example.com;fortenow-2025;1215;ACCEPTED;;2025-01-12 17:28
+carmen.ortiz@example.com;fortenow-2025;1130;ACCEPTED;;2025-01-15 12:09
+rocio.dominguez@example.com;fortenow-2025;1645;ACCEPTED;;2025-01-16 02:02
+marcos.ortega@example.com;fortenow-2025;1000;ACCEPTED;;2025-01-22 01:16
+rocio.torres@example.com;fortenow-2025;1130;ACCEPTED;;2025-01-24 14:08
+hugo.menendez@example.com;fortenow-2025;1000;ACCEPTED;;2025-01-24 22:52
+sergio.navarro@example.com;fortenow-2025;1815;ACCEPTED;;2025-01-29 06:10
+unai.perez@example.com;fortenow-2025;1215;ACCEPTED;;2025-01-29 11:51
+cristina.garcia@example.com;fortenow-2025;1215;ACCEPTED;;2025-02-04 07:29
+pelayo.santos@example.com;fortenow-2025;1045;WITHDRAWN;;2025-02-08 09:57
+ainhoa.castillo@example.com;fortenow-2025;1815;ACCEPTED;;2025-02-09 05:37
+rocio.garcia@example.com;fortenow-2025;1730;ACCEPTED;;2025-02-11 07:28
+aitor.sanz@example.com;fortenow-2025;1730;ACCEPTED;;2025-02-17 09:00
+manuel.diaz@example.com;fortenow-2025;1215;ACCEPTED;;2025-02-23 08:31
+martin.iglesias@example.com;fortenow-2025;1600;ACCEPTED;;2025-02-24 09:10
+victor.cano@example.com;fortenow-2025;1645;ACCEPTED;;2025-02-28 16:19
+asier.garcia@example.com;fortenow-2025;1730;REJECTED;Solicitud duplicada;2025-03-02 15:23
+natalia.ortiz@example.com;fortenow-2025;1730;ACCEPTED;;2025-03-02 20:32
+aitana.ramos@example.com;fortenow-2025;1000;ACCEPTED;;2025-03-08 14:17
+jorge.garcia@example.com;fortenow-2025;1130;ACCEPTED;;2025-03-13 14:33
+ainhoa.serrano@example.com;fortenow-2026;1215;ACCEPTED;;2025-10-02 09:48
+luis.gomez@example.com;fortenow-2026;1215;REJECTED;;2025-10-02 21:10
+mario.vazquez@example.com;fortenow-2026;1045;ACCEPTED;;2025-10-07 15:45
+david.cabal@example.com;fortenow-2026;1600;ACCEPTED;;2025-10-08 11:11
+eduardo.moreno@example.com;fortenow-2026;1645;ACCEPTED;;2025-10-09 19:56
+veronica.diaz@example.com;fortenow-2026;1045;REJECTED;Turno completo;2025-10-10 05:53
+veronica.diaz@example.com;fortenow-2026;1600;ACCEPTED;;2025-10-14 23:15
+natalia.martinez@example.com;fortenow-2026;1215;REJECTED;Turno completo;2025-10-20 16:57
+ainhoa.castillo@example.com;fortenow-2026;1730;ACCEPTED;;2025-10-22 23:00
+andrea.marin@example.com;fortenow-2026;1815;REJECTED;Turno completo;2025-10-27 15:19
+david.lopez@example.com;fortenow-2026;1815;ACCEPTED;;2025-10-27 20:26
+natalia.llano@example.com;fortenow-2026;1000;WITHDRAWN;;2025-10-29 11:13
+javier.ruiz@example.com;fortenow-2026;1815;REJECTED;Turno completo;2025-10-30 06:39
+asier.garcia@example.com;fortenow-2026;1130;ACCEPTED;;2025-11-04 23:36
+javier.ruiz@example.com;fortenow-2026;1730;ACCEPTED;;2025-11-05 09:18
+andres.alvarez@example.com;fortenow-2026;1000;REJECTED;Turno completo;2025-11-06 19:16
+yaiza.gomez@example.com;fortenow-2026;1000;ACCEPTED;;2025-11-07 22:42
+ainhoa.morales@example.com;fortenow-2026;1130;ACCEPTED;;2025-11-09 09:37
+samuel.medina@example.com;fortenow-2026;1730;WITHDRAWN;;2025-11-10 00:04
+javier.medina@example.com;fortenow-2026;1815;ACCEPTED;;2025-11-12 03:12
+lorena.ramos@example.com;fortenow-2026;1645;ACCEPTED;;2025-11-14 13:12
+fernando.torres@example.com;fortenow-2026;1600;REJECTED;Turno completo;2025-11-16 13:57
+marta.gil@example.com;fortenow-2026;1600;REJECTED;Turno completo;2025-11-19 23:36
+ruben.munoz@example.com;fortenow-2026;1815;ACCEPTED;;2025-11-20 11:16
+sandra.guerrero@example.com;fortenow-2026;1000;ACCEPTED;;2025-11-21 12:28
+maria.delgado@example.com;fortenow-2026;1130;ACCEPTED;;2025-11-25 18:08
+enrique.molina@example.com;fortenow-2026;1000;ACCEPTED;;2025-11-27 16:50
+andres.serrano@example.com;fortenow-2026;1045;ACCEPTED;;2025-12-01 01:16
+yaiza.delgado@example.com;fortenow-2026;1130;REJECTED;Turno completo;2025-12-03 07:00
+guillermo.fernandez@example.com;fortenow-2026;1130;ACCEPTED;;2025-12-07 22:48
+covadonga.munoz@example.com;fortenow-2026;1215;WITHDRAWN;;2025-12-09 14:57
+ramon.cortes@example.com;fortenow-2026;1600;ACCEPTED;;2025-12-10 21:31
+pilar.diaz@example.com;fortenow-2026;1045;REJECTED;Turno completo;2025-12-11 20:00
+lidia.morales@example.com;fortenow-2026;1045;ACCEPTED;;2025-12-12 15:28
+aitana.ramos@example.com;fortenow-2026;1130;WITHDRAWN;;2025-12-15 02:42
+adrian.garrido@example.com;fortenow-2026;1730;ACCEPTED;;2025-12-15 06:33
+yaiza.delgado@example.com;fortenow-2026;1045;ACCEPTED;;2025-12-16 08:09
+sara.rubio@example.com;fortenow-2026;1645;ACCEPTED;;2025-12-16 14:11
+asier.arias@example.com;fortenow-2026;1215;ACCEPTED;;2025-12-24 05:15
+rocio.dominguez@example.com;fortenow-2026;1215;ACCEPTED;;2025-12-26 08:14
+aitor.sanz@example.com;fortenow-2026;1130;ACCEPTED;;2025-12-28 06:11
+andrea.marin@example.com;fortenow-2026;1815;ACCEPTED;;2025-12-28 23:22
+vanesa.marin@example.com;fortenow-2026;1600;ACCEPTED;;2025-12-30 06:26
+fernando.torres@example.com;fortenow-2026;1730;ACCEPTED;;2025-12-31 18:45
+gemma.torres@example.com;fortenow-2026;1000;ACCEPTED;;2025-12-31 22:54
+luis.sanz@example.com;fortenow-2026;1130;ACCEPTED;;2026-01-10 10:34
+sergio.navarro@example.com;fortenow-2026;1045;WITHDRAWN;;2026-01-10 15:13
+beatriz.cuesta@example.com;fortenow-2026;1130;REJECTED;No cumple el nivel mínimo exigido;2026-01-12 08:39
+carlos.castro@example.com;fortenow-2026;1000;ACCEPTED;;2026-01-15 12:46
+pilar.diaz@example.com;fortenow-2026;1215;ACCEPTED;;2026-01-16 20:00
+luis.rubio@example.com;fortenow-2026;1645;ACCEPTED;;2026-01-19 10:35
+andres.alvarez@example.com;fortenow-2026;1600;ACCEPTED;;2026-01-22 16:03
+gonzalo.vazquez@example.com;fortenow-2026;1730;ACCEPTED;;2026-01-23 11:20
+samuel.cortes@example.com;fortenow-2026;1215;ACCEPTED;;2026-01-23 22:56
+bruno.gil@example.com;fortenow-2026;1730;ACCEPTED;;2026-01-24 12:47
+carmen.ortiz@example.com;fortenow-2026;1215;ACCEPTED;;2026-01-25 10:08
+sonia.garrido@example.com;fortenow-2026;1600;ACCEPTED;;2026-02-01 00:11
+carmen.sanchez@example.com;fortenow-2026;1045;ACCEPTED;;2026-02-05 02:35
+natalia.martinez@example.com;fortenow-2026;1815;ACCEPTED;;2026-02-09 05:43
+victor.santos@example.com;fortenow-2026;1000;ACCEPTED;;2026-02-19 16:50
+marta.gil@example.com;fortenow-2026;1645;ACCEPTED;;2026-02-20 04:36
+rocio.torres@example.com;fortenow-2026;1730;REJECTED;;2026-02-24 06:42
+martin.iglesias@example.com;fortenow-2026;1645;ACCEPTED;;2026-02-25 14:23
+estefania.fernandez@example.com;fortenow-2026;1045;ACCEPTED;;2026-03-01 15:42
+covadonga.blanco@example.com;fortenow-2026;1815;WITHDRAWN;;2026-03-11 13:22
+aitor.sanz@example.com;fortenow-2027;1000;ACCEPTED;;2026-10-01 11:05
+sergio.navarro@example.com;fortenow-2027;1645;PENDING;;2026-10-01 11:19
+vanesa.marin@example.com;fortenow-2027;1130;PENDING;;2026-10-01 12:28
+jorge.garcia@example.com;fortenow-2027;1815;ACCEPTED;;2026-10-01 13:24
+ainhoa.morales@example.com;fortenow-2027;1730;PENDING;;2026-10-01 15:07
+tania.ortiz@example.com;fortenow-2027;1000;ACCEPTED;;2026-10-01 19:35
+alvaro.medina@example.com;fortenow-2027;1000;PENDING;;2026-10-01 21:35
+lidia.morales@example.com;fortenow-2027;1600;ACCEPTED;;2026-10-02 02:50
+jaime.rodriguez@example.com;fortenow-2027;1730;ACCEPTED;;2026-10-02 06:32
+martin.suarez@example.com;fortenow-2027;1600;PENDING;;2026-10-02 09:22
+ainhoa.castillo@example.com;fortenow-2027;1000;ACCEPTED;;2026-10-02 10:26
+miriam.gonzalez@example.com;fortenow-2027;1815;PENDING;;2026-10-02 13:09
+eduardo.moreno@example.com;fortenow-2027;1600;ACCEPTED;;2026-10-02 16:55
+samuel.cortes@example.com;fortenow-2027;1815;ACCEPTED;;2026-10-02 19:58
+martin.iglesias@example.com;fortenow-2027;1815;ACCEPTED;;2026-10-02 21:27
+luis.rubio@example.com;fortenow-2027;1645;PENDING;;2026-10-02 21:56
+carlos.castro@example.com;fortenow-2027;1815;ACCEPTED;;2026-10-03 01:12
+natalia.llano@example.com;fortenow-2027;1600;REJECTED;Turno completo;2026-10-03 06:02
+gemma.torres@example.com;fortenow-2027;1600;ACCEPTED;;2026-10-03 10:03
+marcos.lozano@example.com;fortenow-2027;1215;PENDING;;2026-10-03 20:02
+mario.vazquez@example.com;fortenow-2027;1730;PENDING;;2026-10-03 20:59
+lidia.mendez@example.com;fortenow-2027;1000;REJECTED;Datos de inscripción incompletos;2026-10-04 01:54
+mario.suarez@example.com;fortenow-2027;1600;PENDING;;2026-10-04 02:55
+borja.cabal@example.com;fortenow-2027;1815;PENDING;;2026-10-04 03:30
+enrique.navarro@example.com;fortenow-2027;1815;ACCEPTED;;2026-10-04 03:38
+covadonga.blanco@example.com;fortenow-2027;1815;ACCEPTED;;2026-10-04 04:47
+veronica.diaz@example.com;fortenow-2027;1000;PENDING;;2026-10-04 05:14
+guillermo.perez@example.com;fortenow-2027;1815;REJECTED;;2026-10-04 06:44
+rocio.romero@example.com;fortenow-2027;1215;PENDING;;2026-10-04 08:02
+estefania.gomez@example.com;fortenow-2027;1945;PENDING;;2026-10-04 10:14
+rodrigo.gil@example.com;fortenow-2027;1645;ACCEPTED;;2026-10-04 12:42
+adrian.garrido@example.com;fortenow-2027;1215;ACCEPTED;;2026-10-04 14:47
+victor.cano@example.com;fortenow-2027;1900;PENDING;;2026-10-04 18:06
+aitana.ramos@example.com;fortenow-2027;1600;ACCEPTED;;2026-10-04 23:55
+fernando.torres@example.com;fortenow-2027;1300;PENDING;;2026-10-05 00:40
+enrique.molina@example.com;fortenow-2027;1045;PENDING;;2026-10-05 01:31
+marcos.ortega@example.com;fortenow-2027;1000;ACCEPTED;;2026-10-05 06:31
+beatriz.cuesta@example.com;fortenow-2027;1130;ACCEPTED;;2026-10-05 06:31
+guillermo.fernandez@example.com;fortenow-2027;1600;ACCEPTED;;2026-10-05 07:21
+lorena.ramos@example.com;fortenow-2027;1000;REJECTED;Datos de inscripción incompletos;2026-10-05 09:03
+maria.vazquez@example.com;fortenow-2027;1600;ACCEPTED;;2026-10-05 10:05
+borja.navarro@example.com;fortenow-2027;1130;PENDING;;2026-10-05 15:34
+patricia.pelaez@example.com;fortenow-2027;1815;PENDING;;2026-10-06 03:44
+irene.ortiz@example.com;fortenow-2027;1000;ACCEPTED;;2026-10-06 07:08
+lidia.arias@example.com;fortenow-2027;1900;PENDING;;2026-10-06 09:43
+gonzalo.sanchez@example.com;fortenow-2027;1900;ACCEPTED;;2026-10-06 09:47
+oscar.molina@example.com;fortenow-2027;1300;PENDING;;2026-10-06 14:42
+estefania.fernandez@example.com;fortenow-2027;1045;PENDING;;2026-10-06 16:05
+cristina.alonso@example.com;fortenow-2027;1000;ACCEPTED;;2026-10-06 17:18
+elena.medina@example.com;fortenow-2027;1045;ACCEPTED;;2026-10-06 17:31
+yaiza.delgado@example.com;fortenow-2027;1045;PENDING;;2026-10-07 00:35
+sandra.guerrero@example.com;fortenow-2027;1130;PENDING;;2026-10-07 09:19
+ainhoa.morales.gonzalez@example.com;fortenow-2027;1130;PENDING;;2026-10-07 10:39
+paula.valdes@example.com;fortenow-2027;1945;PENDING;;2026-10-07 18:46
+luis.sanz@example.com;fortenow-2027;1300;PENDING;;2026-10-08 07:43
+tania.ortega@example.com;fortenow-2027;1045;PENDING;;2026-10-08 08:37
+andres.serrano@example.com;fortenow-2027;1945;PENDING;;2026-10-08 15:06
+daniel.marin@example.com;fortenow-2027;1000;REJECTED;Datos de inscripción incompletos;2026-10-08 17:28
+unai.perez@example.com;fortenow-2027;1215;PENDING;;2026-10-08 17:55
+miriam.llano@example.com;fortenow-2027;1600;PENDING;;2026-10-08 21:27
+pablo.fueyo@example.com;fortenow-2027;1730;PENDING;;2026-10-09 00:53
+yaiza.gomez@example.com;fortenow-2027;1130;PENDING;;2026-10-09 11:41
+david.cabal@example.com;fortenow-2027;1215;PENDING;;2026-10-09 19:13
+pelayo.santos@example.com;fortenow-2027;1130;PENDING;;2026-10-09 23:28
+andrea.marin@example.com;fortenow-2027;1045;PENDING;;2026-10-10 03:40
+rocio.dominguez@example.com;fortenow-2027;1130;PENDING;;2026-10-10 05:11
+gonzalo.alvarez@example.com;fortenow-2027;1900;PENDING;;2026-10-10 08:47
+ruben.munoz@example.com;fortenow-2027;1815;PENDING;;2026-10-10 14:55
+ruben.ortiz@example.com;fortenow-2027;1045;PENDING;;2026-10-10 19:21
+covadonga.munoz@example.com;fortenow-2027;1000;REJECTED;Turno completo;2026-10-10 22:31
+carmen.ortiz@example.com;fortenow-2027;1900;PENDING;;2026-10-11 00:45
+natalia.ortiz@example.com;fortenow-2027;1130;PENDING;;2026-10-11 06:02
+patricia.castillo@example.com;fortenow-2027;1000;PENDING;;2026-10-11 11:35
+samuel.romero@example.com;fortenow-2027;1730;PENDING;;2026-10-11 15:11
+veronica.cortes@example.com;fortenow-2027;1300;PENDING;;2026-10-11 17:21
+rebeca.valdes@example.com;fortenow-2027;1900;PENDING;;2026-10-11 20:56
