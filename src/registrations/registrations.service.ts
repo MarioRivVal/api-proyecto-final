@@ -98,7 +98,8 @@ export class RegistrationsService {
     const registrations = await this.registrationsRepository.find({
       where: { eventId: event.id },
       relations: { user: true },
-      order: { createdAt: 'ASC' },
+      // Las más recientes primero: son las que el organizador busca
+      order: { createdAt: 'DESC' },
     });
 
     return {
